@@ -1,0 +1,101 @@
+{
+	"seo": {
+		"title": "The Management Workspace - 近日公開 | シンプルなプロジェクト管理ソリューション",
+		"description": "The Management Workspace が間もなく登場！シンプルで強力なプロジェクト管理ソリューションのローンチをいち早く知ることができます。早期アクセスと最新情報にご登録ください。",
+		"keywords": "プロジェクト管理 近日公開, ワークスペース管理 リリース, チームコラボレーションツール, プロジェクト計画ソフトウェア, 早期アクセス",
+		"author": "The Management Workspace",
+		"og": {
+			"title": "The Management Workspace - 近日公開",
+			"description": "プロジェクト管理の未来に備えましょう。近日中にローンチされる The Management Workspace の早期アクセスにサインアップしてください！",
+			"site_name": "The Management Workspace"
+		},
+		"twitter": {
+			"card": "summary_large_image",
+			"title": "The Management Workspace - 近日公開",
+			"description": "革新的なプロジェクト管理ソリューションが間もなく登場。早期アクセスのウェイティングリストに参加しましょう！"
+		},
+		"schema": {
+			"name": "The Management Workspace",
+			"description": "多ワークスペースサポートとチームコラボレーションツールを備えたシンプルなプロジェクト管理ソリューションが間もなく登場",
+			"releaseNotes": "近日公開 - 早期アクセスにサインアップ",
+			"featureList": [
+				"使いやすいミニマルなUI",
+				"多ワークスペースサポート",
+				"内蔵メッセージングアプリケーション",
+				"ワークスペースメンバーの割り当てと管理"
+			]
+		}
+	},
+	"navigation": {
+		"brand": "The Management Workspace",
+		"features": "機能",
+		"timeline": "ローンチタイムライン",
+		"early_access": "早期アクセスを取得",
+		"navLanguages": {
+			"en": "英語",
+			"es": "スペイン語",
+			"ar": "アラビア語",
+			"fr": "フランス語",
+			"de": "ドイツ語",
+			"hi": "ヒンディー語",
+			"zh": "中国語",
+			"ko": "韓国語",
+			"ja": "日本語",
+			"ru": "ロシア語",
+			"pt": "ポルトガル語"
+		}
+	},
+	"hero": {
+		"status": "近日公開",
+		"title": "ミニマルな",
+		"title_span": "プロジェクト管理ソリューション",
+		"subtitle": "が間もなく登場",
+		"description": "あなたのチームが待ち望んでいた<strong>シンプルなプロジェクト管理ソリューション</strong>を構築しています。クリーンなインターフェース、強力な機能、シームレスなコラボレーション - すべてが間もなくローンチされます。",
+		"cta_preview": "機能プレビュー"
+	},
+	"features": {
+		"title_tag": "機能プレビュー",
+		"title": "バージョン1.0で",
+		"title_span": "登場する機能",
+		"description": "ローンチに向けて私たちが開発している強力な機能をちら見せします",
+		"card_ui": {
+			"title": "使いやすいミニマルなUI",
+			"description": "複雑なソフトウェアではなく、プロジェクトに集中できます。私たちのクリーンなインターフェースは、管理を直感的で楽なものにします。",
+			"status": "準備完了"
+		},
+		"card_workspaces": {
+			"title": "多ワークスペースサポート",
+			"description": "単一のアカウントから複数のチーム、クライアント、またはプロジェクトをシームレスに管理し、すべてを整理された状態に保ちます。",
+			"status": "準備完了"
+		},
+		"card_messaging": {
+			"title": "内蔵メッセージングアプリケーション",
+			"description": "すべてのプロジェクト議論を一か所に集めるために、ワークスペース内でチームと直接コミュニケーションをとることができます。",
+			"status": "進行中"
+		},
+		"card_assignments": {
+			"title": "ワークスペースメンバーの割り当てと管理",
+			"description": "各ワークスペース内でチームメンバーを簡単に追加、管理、およびタスクを割り当てることで、責任を明確にします。",
+			"status": "準備完了"
+		}
+	},
+	"timeline": {
+		"title_tag": "ローンチタイムライン",
+		"title": "近日公開！",
+		"description": "私たちは開発とテストの最終段階にいます。高度なレポート、カスタムワークフロー、そしてお気に入りのツールとの統合を備えた The Management Workspace のローンチに備えてください。",
+		"card_reporting": {
+			"title": "高度なレポート",
+			"description": "データに基づいた意思決定を支援するために、チームのパフォーマンス、プロジェクトのメトリクス、生産性分析に関する深い洞察を提供します。",
+			"status": "近日公開"
+		},
+		"card_workflows": {
+			"title": "カスタムワークフロー",
+			"description": "シンプルなタスクフローから複雑なプロジェクトパイプラインまで、独自のビジネスプロセスに合わせたワークフローを設計し、自動化します。",
+			"status": "近日公開"
+		}
+	},
+	"footer": {
+		"copyright": "© 2025 The Management Workspace. All rights reserved.",
+		"tagline": "近日公開 - プロジェクト管理の未来を構築しています。"
+	}
+}

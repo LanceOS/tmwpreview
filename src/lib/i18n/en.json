@@ -1,0 +1,101 @@
+{
+	"seo": {
+		"title": "The Management Workspace - Coming Soon | Simple Project Management Solution",
+		"description": "The Management Workspace is coming soon! Be the first to know when our simple, powerful project management solution launches. Sign up for early access and updates.",
+		"keywords": "project management coming soon, workspace management launch, team collaboration tool, project planning software, early access",
+		"author": "The Management Workspace",
+		"og": {
+			"title": "The Management Workspace - Coming Soon",
+			"description": "Get ready for the future of project management. Sign up for early access to The Management Workspace - launching soon!",
+			"site_name": "The Management Workspace"
+		},
+		"twitter": {
+			"card": "summary_large_image",
+			"title": "The Management Workspace - Coming Soon",
+			"description": "Revolutionary project management solution launching soon. Join the waitlist for early access!"
+		},
+		"schema": {
+			"name": "The Management Workspace",
+			"description": "Simple project management solution launching soon with multi-workspace support and team collaboration tools",
+			"releaseNotes": "Coming Soon - Sign up for early access",
+			"featureList": [
+				"Easy-to-use minimal UI",
+				"Multi-workspace support",
+				"Built-in messaging applications",
+				"Workspace member assignments and management"
+			]
+		}
+	},
+	"navigation": {
+		"brand": "The Management Workspace",
+		"features": "Features",
+		"timeline": "Launch Timeline",
+		"early_access": "Get Early Access",
+		"navLanguages": {
+			"en": "English",
+			"es": "Spanish",
+			"ar": "Arabic",
+			"fr": "French",
+			"de": "German",
+			"hi": "Hindi",
+			"zh": "Mandarin",
+			"ko": "Korean",
+			"ja": "Japanese",
+			"ru": "Russian",
+			"pt": "Portuguese"
+		}
+    },
+	"hero": {
+		"status": "Launching Soon",
+		"title": "The Minimal",
+		"title_span": "Project Management Solution",
+		"subtitle": "is Coming Soon",
+		"description": "We're building the <strong>simple project management solution</strong> your team has been waiting for. Clean interface, powerful features, seamless collaboration - all launching soon.",
+		"cta_preview": "Preview Features"
+	},
+	"features": {
+		"title_tag": "Feature Preview",
+		"title": "What's Coming in",
+		"title_span": "Version 1.0",
+		"description": "Get a sneak peek at the powerful features we're crafting for launch day",
+		"card_ui": {
+			"title": "Easy-to-use minimal UI",
+			"description": "Focus on your projects, not on complex software. Our clean interface makes management intuitive and effortless.",
+			"status": "Ready"
+		},
+		"card_workspaces": {
+			"title": "Multi-workspace support",
+			"description": "Seamlessly manage multiple teams, clients, or projects from a single account, keeping everything organized.",
+			"status": "Ready"
+		},
+		"card_messaging": {
+			"title": "Built-in messaging applications",
+			"description": "Communicate with your team directly within your workspaces to keep all project discussions in one place.",
+			"status": "In Progress"
+		},
+		"card_assignments": {
+			"title": "Workspace member assignments and management",
+			"description": "Easily add, manage, and assign tasks to team members within each workspace for clear responsibilities.",
+			"status": "Ready"
+		}
+	},
+	"timeline": {
+		"title_tag": "Launch Timeline",
+		"title": "Coming Soon!",
+		"description": "We are in the final stages of development and testing. Get ready for the launch of The Management Workspace with advanced reporting, custom workflows, and integrations with your favorite tools.",
+		"card_reporting": {
+			"title": "Advanced Reporting",
+			"description": "Deep insights into team performance, project metrics, and productivity analytics to help you make data-driven decisions.",
+			"status": "Coming Soon"
+		},
+		"card_workflows": {
+			"title": "Custom Workflows",
+			"description": "Design and automate workflows that match your unique business processes, from simple task flows to complex project pipelines.",
+			"status": "Coming Soon"
+		}
+	},
+	"footer": {
+		"copyright": "© 2025 The Management Workspace. All rights reserved.",
+		"tagline": "Coming soon - Building the future of project management."
+	}
+}

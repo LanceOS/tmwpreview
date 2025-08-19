@@ -1,0 +1,101 @@
+{
+	"seo": {
+		"title": "The Management Workspace - Bald verfügbar | Einfache Projektmanagement-Lösung",
+		"description": "The Management Workspace kommt bald! Erfahren Sie als Erster, wann unsere einfache, leistungsstarke Projektmanagement-Lösung startet. Melden Sie sich für frühzeitigen Zugang und Updates an.",
+		"keywords": "Projektmanagement bald verfügbar, Start des Workspaces, Team-Kollaborationstool, Projektplanungssoftware, frühzeitiger Zugang",
+		"author": "The Management Workspace",
+		"og": {
+			"title": "The Management Workspace - Bald verfügbar",
+			"description": "Machen Sie sich bereit für die Zukunft des Projektmanagements. Melden Sie sich für frühzeitigen Zugang zu The Management Workspace an - startet bald!",
+			"site_name": "The Management Workspace"
+		},
+		"twitter": {
+			"card": "summary_large_image",
+			"title": "The Management Workspace - Bald verfügbar",
+			"description": "Revolutionäre Projektmanagement-Lösung startet bald. Treten Sie der Warteliste für frühzeitigen Zugang bei!"
+		},
+		"schema": {
+			"name": "The Management Workspace",
+			"description": "Einfache Projektmanagement-Lösung startet bald mit Multi-Workspace-Unterstützung und Team-Kollaborationstools",
+			"releaseNotes": "Bald verfügbar - Melden Sie sich für frühzeitigen Zugang an",
+			"featureList": [
+				"Einfach zu bedienende minimalistische Benutzeroberfläche",
+				"Unterstützung für mehrere Workspaces",
+				"Integrierte Messaging-Anwendungen",
+				"Zuweisungen und Verwaltung von Workspace-Mitgliedern"
+			]
+		}
+	},
+	"navigation": {
+		"brand": "The Management Workspace",
+		"features": "Funktionen",
+		"timeline": "Start-Zeitplan",
+		"early_access": "Frühzeitigen Zugang erhalten",
+		"navLanguages": {
+			"en": "Englisch",
+			"es": "Spanisch",
+			"ar": "Arabisch",
+			"fr": "Französisch",
+			"de": "Deutsch",
+			"hi": "Hindi",
+			"zh": "Mandarin",
+			"ko": "Koreanisch",
+			"ja": "Japanisch",
+			"ru": "Russisch",
+			"pt": "Portugiesisch"
+		}
+	},
+	"hero": {
+		"status": "Startet bald",
+		"title": "Die minimalistische",
+		"title_span": "Projektmanagement-Lösung",
+		"subtitle": "ist bald verfügbar",
+		"description": "Wir bauen die <strong>einfache Projektmanagement-Lösung</strong>, auf die Ihr Team gewartet hat. Klare Benutzeroberfläche, leistungsstarke Funktionen, nahtlose Zusammenarbeit - alles startet bald.",
+		"cta_preview": "Funktionen vorschauen"
+	},
+	"features": {
+		"title_tag": "Funktionsvorschau",
+		"title": "Was in",
+		"title_span": "Version 1.0",
+		"description": "Werfen Sie einen Blick auf die leistungsstarken Funktionen, die wir für den Starttag entwickeln",
+		"card_ui": {
+			"title": "Einfach zu bedienende minimalistische Benutzeroberfläche",
+			"description": "Konzentrieren Sie sich auf Ihre Projekte, nicht auf komplexe Software. Unsere klare Benutzeroberfläche macht die Verwaltung intuitiv und mühelos.",
+			"status": "Fertig"
+		},
+		"card_workspaces": {
+			"title": "Unterstützung für mehrere Workspaces",
+			"description": "Verwalten Sie nahtlos mehrere Teams, Kunden oder Projekte von einem einzigen Konto aus und halten Sie alles organisiert.",
+			"status": "Fertig"
+		},
+		"card_messaging": {
+			"title": "Integrierte Messaging-Anwendungen",
+			"description": "Kommunizieren Sie direkt mit Ihrem Team innerhalb Ihrer Workspaces, um alle Projektdiskussionen an einem Ort zu halten.",
+			"status": "In Arbeit"
+		},
+		"card_assignments": {
+			"title": "Zuweisungen und Verwaltung von Workspace-Mitgliedern",
+			"description": "Fügen Sie Teammitglieder einfach hinzu, verwalten Sie sie und weisen Sie ihnen Aufgaben innerhalb jedes Workspaces zu, um klare Verantwortlichkeiten zu schaffen.",
+			"status": "Fertig"
+		}
+	},
+	"timeline": {
+		"title_tag": "Start-Zeitplan",
+		"title": "Bald verfügbar!",
+		"description": "Wir befinden uns in den letzten Phasen der Entwicklung und Tests. Machen Sie sich bereit für den Start von The Management Workspace mit erweiterten Berichten, benutzerdefinierten Workflows und Integrationen mit Ihren Lieblings-Tools.",
+		"card_reporting": {
+			"title": "Erweiterte Berichte",
+			"description": "Tiefe Einblicke in die Teamleistung, Projektmetriken und Produktivitätsanalysen, um Ihnen zu helfen, datengesteuerte Entscheidungen zu treffen.",
+			"status": "Bald verfügbar"
+		},
+		"card_workflows": {
+			"title": "Benutzerdefinierte Workflows",
+			"description": "Entwerfen und automatisieren Sie Workflows, die Ihren einzigartigen Geschäftsprozessen entsprechen, von einfachen Aufgabenabläufen bis hin zu komplexen Projekt-Pipelines.",
+			"status": "Bald verfügbar"
+		}
+	},
+	"footer": {
+		"copyright": "© 2025 The Management Workspace. Alle Rechte vorbehalten.",
+		"tagline": "Bald verfügbar - Wir bauen die Zukunft des Projektmanagements."
+	}
+}

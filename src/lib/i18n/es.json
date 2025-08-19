@@ -1,0 +1,101 @@
+{
+	"seo": {
+		"title": "The Management Workspace - Próximamente | Solución de Gestión de Proyectos Simple",
+		"description": "¡The Management Workspace estará disponible pronto! Sé el primero en saber cuándo se lanza nuestra solución de gestión de proyectos simple y potente. Regístrate para obtener acceso anticipado y actualizaciones.",
+		"keywords": "gestión de proyectos próximamente, lanzamiento de espacio de trabajo, herramienta de colaboración en equipo, software de planificación de proyectos, acceso anticipado",
+		"author": "The Management Workspace",
+		"og": {
+			"title": "The Management Workspace - Próximamente",
+			"description": "Prepárate para el futuro de la gestión de proyectos. ¡Regístrate para obtener acceso anticipado a The Management Workspace, que se lanzará pronto!",
+			"site_name": "The Management Workspace"
+		},
+		"twitter": {
+			"card": "summary_large_image",
+			"title": "The Management Workspace - Próximamente",
+			"description": "La revolucionaria solución de gestión de proyectos se lanzará pronto. ¡Únete a la lista de espera para obtener acceso anticipado!"
+		},
+		"schema": {
+			"name": "The Management Workspace",
+			"description": "Solución de gestión de proyectos simple que se lanzará pronto con soporte para múltiples espacios de trabajo y herramientas de colaboración en equipo",
+			"releaseNotes": "Próximamente - Regístrate para acceso anticipado",
+			"featureList": [
+				"Interfaz de usuario mínima y fácil de usar",
+				"Soporte para múltiples espacios de trabajo",
+				"Aplicaciones de mensajería integradas",
+				"Asignación y gestión de miembros del espacio de trabajo"
+			]
+		}
+	},
+	"navigation": {
+		"brand": "The Management Workspace",
+		"features": "Características",
+		"timeline": "Cronograma de Lanzamiento",
+		"early_access": "Obtener Acceso Anticipado",
+		"navLanguages": {
+			"en": "Inglés",
+			"es": "Español",
+			"ar": "Árabe",
+			"fr": "Francés",
+			"de": "Alemán",
+			"hi": "Hindi",
+			"zh": "Mandarín",
+			"ko": "Coreano",
+			"ja": "Japonés",
+			"ru": "Ruso",
+			"pt": "Portugués"
+		}
+	},
+	"hero": {
+		"status": "Lanzamiento Próximamente",
+		"title": "La solución",
+		"title_span": "de gestión de proyectos",
+		"subtitle": "mínima está por llegar",
+		"description": "Estamos construyendo la <strong>solución de gestión de proyectos simple</strong> que tu equipo ha estado esperando. Interfaz limpia, características potentes, colaboración fluida, todo se lanzará pronto.",
+		"cta_preview": "Previsualizar Características"
+	},
+	"features": {
+		"title_tag": "Vista Previa de Características",
+		"title": "Novedades en la",
+		"title_span": "versión 1.0",
+		"description": "Echa un vistazo a las potentes características que estamos creando para el día del lanzamiento",
+		"card_ui": {
+			"title": "Interfaz de usuario mínima y fácil de usar",
+			"description": "Concéntrate en tus proyectos, no en software complejo. Nuestra interfaz limpia hace que la gestión sea intuitiva y sin esfuerzo.",
+			"status": "Listo"
+		},
+		"card_workspaces": {
+			"title": "Soporte para múltiples espacios de trabajo",
+			"description": "Gestiona sin problemas múltiples equipos, clientes o proyectos desde una sola cuenta, manteniendo todo organizado.",
+			"status": "Listo"
+		},
+		"card_messaging": {
+			"title": "Aplicaciones de mensajería integradas",
+			"description": "Comunícate con tu equipo directamente dentro de tus espacios de trabajo para mantener todas las discusiones del proyecto en un solo lugar.",
+			"status": "En Progreso"
+		},
+		"card_assignments": {
+			"title": "Asignación y gestión de miembros del espacio de trabajo",
+			"description": "Agrega, gestiona y asigna tareas fácilmente a los miembros del equipo dentro de cada espacio de trabajo para tener responsabilidades claras.",
+			"status": "Listo"
+		}
+	},
+	"timeline": {
+		"title_tag": "Cronograma de Lanzamiento",
+		"title": "¡Próximamente!",
+		"description": "Estamos en las etapas finales de desarrollo y prueba. Prepárate para el lanzamiento de The Management Workspace con informes avanzados, flujos de trabajo personalizados e integraciones con tus herramientas favoritas.",
+		"card_reporting": {
+			"title": "Informes Avanzados",
+			"description": "Análisis profundos del rendimiento del equipo, métricas de proyectos y productividad para ayudarte a tomar decisiones basadas en datos.",
+			"status": "Próximamente"
+		},
+		"card_workflows": {
+			"title": "Flujos de Trabajo Personalizados",
+			"description": "Diseña y automatiza flujos de trabajo que se adapten a tus procesos de negocio únicos, desde flujos de tareas simples hasta complejas cadenas de proyectos.",
+			"status": "Próximamente"
+		}
+	},
+	"footer": {
+		"copyright": "© 2025 The Management Workspace. Todos los derechos reservados.",
+		"tagline": "Próximamente - Construyendo el futuro de la gestión de proyectos."
+	}
+}

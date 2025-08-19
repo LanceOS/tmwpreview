@@ -1,0 +1,101 @@
+{
+	"seo": {
+		"title": "The Management Workspace - 출시 예정 | 간편한 프로젝트 관리 솔루션",
+		"description": "The Management Workspace가 곧 출시됩니다! 간단하고 강력한 프로젝트 관리 솔루션이 언제 출시되는지 가장 먼저 알아보세요. 조기 액세스 및 업데이트를 위해 가입하세요.",
+		"keywords": "프로젝트 관리 출시 예정, 워크스페이스 관리 출시, 팀 협업 도구, 프로젝트 계획 소프트웨어, 조기 액세스",
+		"author": "The Management Workspace",
+		"og": {
+			"title": "The Management Workspace - 출시 예정",
+			"description": "프로젝트 관리의 미래를 준비하세요. 곧 출시될 The Management Workspace의 조기 액세스를 위해 가입하세요!",
+			"site_name": "The Management Workspace"
+		},
+		"twitter": {
+			"card": "summary_large_image",
+			"title": "The Management Workspace - 출시 예정",
+			"description": "혁신적인 프로젝트 관리 솔루션이 곧 출시됩니다. 조기 액세스를 위해 대기자 명단에 참여하세요!"
+		},
+		"schema": {
+			"name": "The Management Workspace",
+			"description": "다중 워크스페이스 지원 및 팀 협업 도구를 갖춘 간편한 프로젝트 관리 솔루션이 곧 출시됩니다",
+			"releaseNotes": "출시 예정 - 조기 액세스를 위해 가입하세요",
+			"featureList": [
+				"사용하기 쉬운 미니멀 UI",
+				"다중 워크스페이스 지원",
+				"내장된 메시징 애플리케이션",
+				"워크스페이스 멤버 할당 및 관리"
+			]
+		}
+	},
+	"navigation": {
+		"brand": "The Management Workspace",
+		"features": "기능",
+		"timeline": "출시 일정",
+		"early_access": "조기 액세스 받기",
+		"navLanguages": {
+			"en": "영어",
+			"es": "스페인어",
+			"ar": "아랍어",
+			"fr": "프랑스어",
+			"de": "독일어",
+			"hi": "힌디어",
+			"zh": "중국어",
+			"ko": "한국어",
+			"ja": "일본어",
+			"ru": "러시아어",
+			"pt": "포르투갈어"
+		}
+	},
+	"hero": {
+		"status": "곧 출시",
+		"title": "미니멀",
+		"title_span": "프로젝트 관리 솔루션",
+		"subtitle": "이 곧 출시됩니다",
+		"description": "우리는 팀이 기다려온 <strong>간편한 프로젝트 관리 솔루션</strong>을 만들고 있습니다. 깔끔한 인터페이스, 강력한 기능, 원활한 협업 - 이 모든 것이 곧 출시됩니다.",
+		"cta_preview": "기능 미리보기"
+	},
+	"features": {
+		"title_tag": "기능 미리보기",
+		"title": "버전 1.0에 포함될",
+		"title_span": "내용",
+		"description": "출시일을 위해 우리가 만들고 있는 강력한 기능들을 살짝 엿보세요",
+		"card_ui": {
+			"title": "사용하기 쉬운 미니멀 UI",
+			"description": "복잡한 소프트웨어 대신 프로젝트에 집중하세요. 저희의 깔끔한 인터페이스는 관리를 직관적이고 수월하게 만듭니다.",
+			"status": "준비 완료"
+		},
+		"card_workspaces": {
+			"title": "다중 워크스페이스 지원",
+			"description": "하나의 계정에서 여러 팀, 클라이언트, 또는 프로젝트를 원활하게 관리하여 모든 것을 체계적으로 유지하세요.",
+			"status": "준비 완료"
+		},
+		"card_messaging": {
+			"title": "내장된 메시징 애플리케이션",
+			"description": "모든 프로젝트 논의를 한 곳에 모으기 위해 워크스페이스 내에서 팀과 직접 소통하세요.",
+			"status": "진행 중"
+		},
+		"card_assignments": {
+			"title": "워크스페이스 멤버 할당 및 관리",
+			"description": "명확한 책임을 위해 각 워크스페이스 내에서 팀 멤버를 쉽게 추가, 관리 및 작업 할당할 수 있습니다.",
+			"status": "준비 완료"
+		}
+	},
+	"timeline": {
+		"title_tag": "출시 일정",
+		"title": "곧 출시됩니다!",
+		"description": "우리는 개발 및 테스트의 최종 단계에 있습니다. 고급 보고, 맞춤형 워크플로우, 그리고 좋아하는 도구와의 통합을 갖춘 The Management Workspace의 출시를 준비하세요.",
+		"card_reporting": {
+			"title": "고급 보고",
+			"description": "팀 성과, 프로젝트 지표, 그리고 생산성 분석에 대한 깊은 통찰력을 통해 데이터 기반 결정을 내릴 수 있도록 돕습니다.",
+			"status": "출시 예정"
+		},
+		"card_workflows": {
+			"title": "맞춤형 워크플로우",
+			"description": "간단한 작업 흐름부터 복잡한 프로젝트 파이프라인에 이르기까지, 귀사의 고유한 비즈니스 프로세스와 일치하는 워크플로우를 설계하고 자동화하세요.",
+			"status": "출시 예정"
+		}
+	},
+	"footer": {
+		"copyright": "© 2025 The Management Workspace. All rights reserved.",
+		"tagline": "출시 예정 - 프로젝트 관리의 미래를 구축하고 있습니다."
+	}
+}

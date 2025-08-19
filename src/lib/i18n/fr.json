@@ -1,0 +1,101 @@
+{
+	"seo": {
+		"title": "The Management Workspace - Bientôt disponible | Solution simple de gestion de projet",
+		"description": "The Management Workspace arrive bientôt ! Soyez le premier à savoir quand notre solution de gestion de projet simple et puissante sera lancée. Inscrivez-vous pour un accès anticipé et des mises à jour.",
+		"keywords": "gestion de projet bientôt disponible, lancement espace de travail, outil de collaboration d'équipe, logiciel de planification de projet, accès anticipé",
+		"author": "The Management Workspace",
+		"og": {
+			"title": "The Management Workspace - Bientôt disponible",
+			"description": "Préparez-vous pour le futur de la gestion de projet. Inscrivez-vous pour un accès anticipé à The Management Workspace - lancement bientôt !",
+			"site_name": "The Management Workspace"
+		},
+		"twitter": {
+			"card": "summary_large_image",
+			"title": "The Management Workspace - Bientôt disponible",
+			"description": "Solution révolutionnaire de gestion de projet bientôt lancée. Rejoignez la liste d'attente pour un accès anticipé !"
+		},
+		"schema": {
+			"name": "The Management Workspace",
+			"description": "Solution simple de gestion de projet bientôt lancée avec support multi-espaces de travail et outils de collaboration d'équipe",
+			"releaseNotes": "Bientôt disponible - Inscrivez-vous pour un accès anticipé",
+			"featureList": [
+				"Interface utilisateur minimaliste et facile à utiliser",
+				"Support multi-espaces de travail",
+				"Applications de messagerie intégrées",
+				"Affectation et gestion des membres de l'espace de travail"
+			]
+		}
+	},
+	"navigation": {
+		"brand": "The Management Workspace",
+		"features": "Fonctionnalités",
+		"timeline": "Chronologie de lancement",
+		"early_access": "Obtenir un accès anticipé",
+		"navLanguages": {
+			"en": "Anglais",
+			"es": "Espagnol",
+			"ar": "Arabe",
+			"fr": "Français",
+			"de": "Allemand",
+			"hi": "Hindi",
+			"zh": "Mandarin",
+			"ko": "Coréen",
+			"ja": "Japonais",
+			"ru": "Russe",
+			"pt": "Portugais"
+		}
+	},
+	"hero": {
+		"status": "Lancement Bientôt",
+		"title": "La solution",
+		"title_span": "de gestion de projet",
+		"subtitle": "minimaliste arrive bientôt",
+		"description": "Nous construisons la <strong>solution simple de gestion de projet</strong> que votre équipe attendait. Interface épurée, fonctionnalités puissantes, collaboration transparente - tout cela sera bientôt lancé.",
+		"cta_preview": "Aperçu des fonctionnalités"
+	},
+	"features": {
+		"title_tag": "Aperçu des fonctionnalités",
+		"title": "Ce qui arrive dans",
+		"title_span": "la version 1.0",
+		"description": "Obtenez un aperçu des fonctionnalités puissantes que nous préparons pour le jour du lancement",
+		"card_ui": {
+			"title": "Interface utilisateur minimaliste et facile à utiliser",
+			"description": "Concentrez-vous sur vos projets, pas sur un logiciel complexe. Notre interface épurée rend la gestion intuitive et sans effort.",
+			"status": "Prêt"
+		},
+		"card_workspaces": {
+			"title": "Support multi-espaces de travail",
+			"description": "Gérez sans effort plusieurs équipes, clients ou projets depuis un seul compte, en gardant tout organisé.",
+			"status": "Prêt"
+		},
+		"card_messaging": {
+			"title": "Applications de messagerie intégrées",
+			"description": "Communiquez avec votre équipe directement dans vos espaces de travail pour garder toutes les discussions de projet au même endroit.",
+			"status": "En cours"
+		},
+		"card_assignments": {
+			"title": "Affectation et gestion des membres de l'espace de travail",
+			"description": "Ajoutez, gérez et affectez facilement des tâches aux membres de l'équipe dans chaque espace de travail pour des responsabilités claires.",
+			"status": "Prêt"
+		}
+	},
+	"timeline": {
+		"title_tag": "Chronologie de lancement",
+		"title": "Bientôt disponible !",
+		"description": "Nous sommes dans les dernières étapes de développement et de test. Préparez-vous pour le lancement de The Management Workspace avec des rapports avancés, des flux de travail personnalisés et des intégrations avec vos outils préférés.",
+		"card_reporting": {
+			"title": "Rapports avancés",
+			"description": "Des informations approfondies sur la performance de l'équipe, les métriques de projet et l'analyse de la productivité pour vous aider à prendre des décisions basées sur les données.",
+			"status": "Bientôt disponible"
+		},
+		"card_workflows": {
+			"title": "Flux de travail personnalisés",
+			"description": "Concevez et automatisez des flux de travail qui correspondent à vos processus d'affaires uniques, des flux de tâches simples aux pipelines de projets complexes.",
+			"status": "Bientôt disponible"
+		}
+	},
+	"footer": {
+		"copyright": "© 2025 The Management Workspace. Tous droits réservés.",
+		"tagline": "Bientôt disponible - Construire le futur de la gestion de projet."
+	}
+}

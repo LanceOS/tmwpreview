@@ -1,0 +1,101 @@
+{
+	"seo": {
+		"title": "The Management Workspace - 即将推出 | 简单的项目管理解决方案",
+		"description": "The Management Workspace 即将推出！成为第一个知道我们简单、强大的项目管理解决方案何时发布的人。注册以获取早期访问和更新。",
+		"keywords": "项目管理即将推出, 工作区管理发布, 团队协作工具, 项目规划软件, 早期访问",
+		"author": "The Management Workspace",
+		"og": {
+			"title": "The Management Workspace - 即将推出",
+			"description": "为项目管理的未来做好准备。注册以获取 The Management Workspace 的早期访问 - 即将推出！",
+			"site_name": "The Management Workspace"
+		},
+		"twitter": {
+			"card": "summary_large_image",
+			"title": "The Management Workspace - 即将推出",
+			"description": "革命性的项目管理解决方案即将推出。加入候补名单以获取早期访问！"
+		},
+		"schema": {
+			"name": "The Management Workspace",
+			"description": "简单的项目管理解决方案即将推出，支持多工作区和团队协作工具",
+			"releaseNotes": "即将推出 - 注册以获取早期访问",
+			"featureList": [
+				"易于使用的极简用户界面",
+				"多工作区支持",
+				"内置消息应用程序",
+				"工作区成员分配和管理"
+			]
+		}
+	},
+	"navigation": {
+		"brand": "The Management Workspace",
+		"features": "功能",
+		"timeline": "发布时间表",
+		"early_access": "获取早期访问",
+		"navLanguages": {
+			"en": "英语",
+			"es": "西班牙语",
+			"ar": "阿拉伯语",
+			"fr": "法语",
+			"de": "德语",
+			"hi": "印地语",
+			"zh": "中文",
+			"ko": "韩语",
+			"ja": "日语",
+			"ru": "俄语",
+			"pt": "葡萄牙语"
+		}
+	},
+	"hero": {
+		"status": "即将推出",
+		"title": "简约的",
+		"title_span": "项目管理解决方案",
+		"subtitle": "即将面世",
+		"description": "我们正在构建您的团队一直在等待的<strong>简单项目管理解决方案</strong>。干净的界面、强大的功能、无缝的协作——所有这些都即将推出。",
+		"cta_preview": "预览功能"
+	},
+	"features": {
+		"title_tag": "功能预览",
+		"title": "版本 1.0 中即将推出的",
+		"title_span": "新功能",
+		"description": "抢先一睹我们为发布日精心打造的强大功能",
+		"card_ui": {
+			"title": "易于使用的极简用户界面",
+			"description": "专注于您的项目，而不是复杂的软件。我们干净的界面使管理变得直观和轻松。",
+			"status": "就绪"
+		},
+		"card_workspaces": {
+			"title": "多工作区支持",
+			"description": "从一个账户无缝管理多个团队、客户或项目，让一切井井有条。",
+			"status": "就绪"
+		},
+		"card_messaging": {
+			"title": "内置消息应用程序",
+			"description": "直接在您的工作区内与团队沟通，将所有项目讨论都集中在一个地方。",
+			"status": "进行中"
+		},
+		"card_assignments": {
+			"title": "工作区成员分配和管理",
+			"description": "在每个工作区内轻松添加、管理和分配任务给团队成员，以明确职责。",
+			"status": "就绪"
+		}
+	},
+	"timeline": {
+		"title_tag": "发布时间表",
+		"title": "即将推出！",
+		"description": "我们正处于开发和测试的最后阶段。准备好迎接 The Management Workspace 的发布，它将带来高级报告、自定义工作流以及与您最喜爱工具的集成。",
+		"card_reporting": {
+			"title": "高级报告",
+			"description": "深入了解团队绩效、项目指标和生产力分析，帮助您做出数据驱动的决策。",
+			"status": "即将推出"
+		},
+		"card_workflows": {
+			"title": "自定义工作流",
+			"description": "设计和自动化与您独特的业务流程相匹配的工作流，从简单的任务流到复杂的项目流水线。",
+			"status": "即将推出"
+		}
+	},
+	"footer": {
+		"copyright": "© 2025 The Management Workspace. 版权所有。",
+		"tagline": "即将推出 - 正在构建项目管理的未来。"
+	}
+}
