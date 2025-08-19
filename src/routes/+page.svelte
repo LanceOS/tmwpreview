@@ -92,9 +92,9 @@
                     <button onclick={() => scrollToSection('coming-soon')} class="text-slate-600 hover:text-indigo-600 transition-colors duration-200 font-medium cursor-pointer">
                         Launch Timeline
                     </button>
-                    <button onclick={() => scrollToSection('notify')} class="bg-gradient-to-r from-indigo-600 to-purple-600 text-white px-6 py-2 rounded-full font-medium hover:shadow-lg hover:scale-105 transition-all duration-200 cursor-pointer">
+                    <!-- <button onclick={() => scrollToSection('notify')} class="bg-gradient-to-r from-indigo-600 to-purple-600 text-white px-6 py-2 rounded-full font-medium hover:shadow-lg hover:scale-105 transition-all duration-200 cursor-pointer">
                         Get Early Access
-                    </button>
+                    </button> -->
                 </div>
                 
                 <!-- Mobile Menu Button -->
@@ -145,10 +145,10 @@
             </p>
             
             <div class="flex flex-col sm:flex-row gap-4 justify-center items-center">
-                <button onclick={() => scrollToSection('notify')} class="group bg-gradient-to-r from-indigo-600 to-purple-600 text-white px-8 py-4 rounded-2xl font-semibold text-lg hover:shadow-2xl hover:shadow-indigo-500/25 transform hover:scale-105 transition-all duration-300 flex items-center space-x-2 cursor-pointer">
+                <!-- <button onclick={() => scrollToSection('notify')} class="group bg-gradient-to-r from-indigo-600 to-purple-600 text-white px-8 py-4 rounded-2xl font-semibold text-lg hover:shadow-2xl hover:shadow-indigo-500/25 transform hover:scale-105 transition-all duration-300 flex items-center space-x-2 cursor-pointer">
                     <span>Join the Waitlist</span>
                     <Icon icon="lucide:bell" class="w-5 h-5 group-hover:rotate-12 transition-transform" />
-                </button>
+                </button> -->
                 <button onclick={() => scrollToSection('features')} class="bg-white/80 backdrop-blur-sm text-slate-700 px-8 py-4 rounded-2xl font-semibold text-lg border border-slate-200 hover:bg-white hover:shadow-xl transition-all duration-300 flex items-center space-x-2 cursor-pointer">
                     <Icon icon="lucide:eye" class="w-5 h-5" />
                     <span>Preview Features</span>
@@ -269,8 +269,8 @@
             </div>
         </div>
     </section>
-
-    <!-- Email Signup Section -->
+<!-- 
+    Email Signup Section
     <section id="notify" class="py-20 relative overflow-hidden">
         <div class="absolute inset-0 bg-gradient-to-r from-indigo-600 to-purple-600"></div>
         <div class="absolute inset-0 bg-black/20"></div>
@@ -310,10 +310,10 @@
             {/if}
         </div>
         
-        <!-- Decorative Elements -->
+         Decorative Elements
         <div class="absolute top-10 left-10 w-24 h-24 bg-white/10 rounded-full animate-pulse"></div>
         <div class="absolute bottom-10 right-10 w-16 h-16 bg-white/10 rounded-2xl rotate-45 animate-pulse delay-500"></div>
-    </section>
+    </section> -->
 
     <!-- Footer -->
     <footer class="bg-slate-900 text-white py-12">
